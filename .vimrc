@@ -1,0 +1,10 @@
+set nocompatible
+set tabstop=5
+set shiftwidth=5
+set number
+set ls=2
+set ruler
+set history=50
+set backspace=indent,eol,start
+set bg=light
+set backup
